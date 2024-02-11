@@ -8,5 +8,5 @@ link: https://akhilbabu456.github.io/_mashup_stack_works/CSS/loginWebpage/index.
 <h3>JavaScript</h3>
 <h5>Calculator</h5>
 link: https://akhilbabu456.github.io/_mashup_stack_works/Javascript/calculatorWebpage/index.html
-<h5>Lottery Draw</h5>
+<h4>Lottery Draw</h4>
 link: https://akhilbabu456.github.io/_mashup_stack_works/Javascript/loterryDrawWebpage/index.html 
